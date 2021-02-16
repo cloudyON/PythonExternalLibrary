@@ -1,13 +1,13 @@
 # 👋 Welcom to pythonExternalLibrary(P.E.L.)
 
-** p.e.l. is a place to store useful source code packs when coding.
+### p.e.l. is a place to store useful source code packs when coding.
 we have..
 
 * class pack
 * function pack
 * other code
 
-** installing package
+### installing package
 
 * git bash
 
