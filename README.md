@@ -7,9 +7,11 @@ we have..
 * function pack
 * other code
 
-### ⬇ installing package ⬇
+### ⬇ installing package 
+
 
 * git bash
+  
   ##
     $ git clone https://github.com/cloudyON/PythonExternalLibrary 
   ##
@@ -18,6 +20,7 @@ we have..
 * first you have to download the package
 
 * import file in python
+  
   ##
     import fileName
   ##
