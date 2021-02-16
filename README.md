@@ -22,7 +22,7 @@ we have..
 * import file in python
   
   ##
-    import fileName
+    import files.py
   ##
 
 
