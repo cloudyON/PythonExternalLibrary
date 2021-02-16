@@ -10,18 +10,21 @@ we have..
 ### ⬇ installing package ⬇
 
 * git bash
-#
-$ git clone https://github.com/cloudyON/PythonExternalLibrary
-#
+##
+  $ git clone https://github.com/cloudyON/PythonExternalLibrary
+##
 
 ## 🤔 How to use it in Python
 * first you have to download the package
 
 * import file in python
-#
-import fileName
-#
-
+##
+  import fileName
+##
+##
+##
+##
+##
 
 ### Copyright
 * ©copyright by cloudy
