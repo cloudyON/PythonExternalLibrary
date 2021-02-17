@@ -48,6 +48,16 @@ we have..
 * This pakeage is protected by MIT LICENSE
 
 
+### ! It is optimized for Python 3.n version syntax. !
+* If running on Python 2.n version, different results or errors may occur.
+
+
+-----------------------------
+Thank you for visiting here.
+
+This work can be used for commercial purposes.
+
+
 
 
 
