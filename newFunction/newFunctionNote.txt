@@ -1,0 +1,17 @@
+📃 Release notes
+
+VERSION NOTE
+
+version 0.0.1
+/*
+	Made newFunctionNote files
+	Add printf() function for c language users
+*/
+
+ELSE
+
+! Update notice !
+
+	There aren't a lot of packages as it's just been in a lot. 
+	I will gradually add it.
+	
