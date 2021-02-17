@@ -1,6 +1,6 @@
 # 👋 Welcom to pythonExternalLibrary(P.E.L.)
 
-### 📣 p.e.l. is a place to store useful source code packs when coding.
+### 📣 P.E.L. is a place to store useful source code packs when coding.
 we have..
 
 * class pack
@@ -14,7 +14,7 @@ we have..
 * systems that can use Python
 
 
-### ⬇ installing package 
+## ⬇ installing package 
 
 
 * git bash
@@ -54,10 +54,10 @@ we have..
 
 
 -----------------------------
-Thank you for visiting here.
 
 You can use it for personal purposes.
+Also, if you leave a source, secondary distribution is possible.ble.
 
 ---------------------------
-## ❤ If you like this package, click the stars! ❤
+## ❤ Thank you for visiting here. ❤
 
