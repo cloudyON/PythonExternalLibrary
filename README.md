@@ -7,6 +7,13 @@ we have..
 * function pack
 * other code
 
+## This package is supported by:
+* window
+* macOS
+* LINUX
+* systems that can use Python
+
+
 ### ⬇ installing package 
 
 
@@ -23,7 +30,11 @@ we have..
   
   ```
     import files
+    or
+    from files import packageName
   ```
+  
+
 
 ## 📃 Items to be added
 * sum function
