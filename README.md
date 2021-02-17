@@ -47,8 +47,9 @@ we have..
 * ©copyright by cloudy
 
 * This pakeage is protected by MIT LICENSE
-* Not for commercial use.
-### If it is judged for commercial purposes in the above items
+* Commercial purposes that violate the above
+* 
+### If it is judged for commercial purposes in the under items
    * Commercial purposes without a source
    * When using for textbooks or projects without a source
 
