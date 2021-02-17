@@ -56,7 +56,7 @@ we have..
 -----------------------------
 Thank you for visiting here.
 
-This work can be used for commercial purposes.
+You can use it for personal purposes.
 
 ---------------------------
 ## ❤ If you like this package, click the stars! ❤
