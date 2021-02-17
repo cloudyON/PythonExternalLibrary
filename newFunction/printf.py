@@ -1,4 +1,4 @@
 def printf(input):
     print(input)
 
-printf("hello world")
+# you don't have to use ";"
