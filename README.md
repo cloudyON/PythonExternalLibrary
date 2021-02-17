@@ -25,6 +25,11 @@ we have..
     import files
   ```
 
+## 📃 Items to be added
+* sum function
+* The new print function
+* .
+
 
 ### Copyright
 * ©copyright by cloudy
