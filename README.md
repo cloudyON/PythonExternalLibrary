@@ -49,10 +49,11 @@ we have..
 * This pakeage is protected by MIT LICENSE
 * Not for commercial use.
 ### If it is judged for commercial purposes in the above items
-    * Commercial purposes without a source
-    * When using for textbooks or projects without a source
+   * Commercial purposes without a source
+   * When using for textbooks or projects without a source
 
 ### You can use it for commercial purposes unless you violate the above.
+-----------------------------
 
 ## ❕ It is optimized for Python 3.n version syntax.
 * If running on Python 2.n version, different results or errors may occur.
