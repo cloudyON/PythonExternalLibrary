@@ -46,7 +46,7 @@ we have..
 ## ©Copyright
 * ©copyright by cloudy
 
-* This pakeage is protected by MIT LICENSE ,BUT
+* This pakeage is protected by MIT LICENSE
 * Commercial purposes that violate the above
   
   ### If it is judged for commercial purposes in the under items
