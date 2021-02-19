@@ -63,10 +63,10 @@ we have..
 
 ## else
 
-You can use it for personal purposes.
+  You can use it for personal purposes.
 
 
-Also, if you leave a source, secondary distribution is possible.
+  Also, if you leave a source, secondary distribution is possible.
 
 
 ## ❤ Thank you for visiting here. ❤
