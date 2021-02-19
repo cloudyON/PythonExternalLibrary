@@ -56,7 +56,7 @@ we have..
   ### You can use it for commercial purposes unless you violate the above.
 -----------------------------
 
-## ❕ It is optimized for Python 3.n version syntax.
+## It is optimized for Python 3.n version syntax.
 * If running on Python 2.n version, different results or errors may occur.
 
 
